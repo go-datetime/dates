@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/go-datetime/brand/main/social/go-datetime.png" width="720" alt="go-datetime/dates"></p>
+
 # dates
 
 [![CI](https://github.com/go-datetime/dates/actions/workflows/ci.yml/badge.svg)](https://github.com/go-datetime/dates/actions/workflows/ci.yml)
